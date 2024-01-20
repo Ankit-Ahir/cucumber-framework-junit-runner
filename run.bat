@@ -1,2 +1,2 @@
-cd C:\Users\DELL\eclipse-workspace\cucumber-framework2.0
+cd C:\Users\DELL\eclipse-workspace\cucumber-framework-junit-runner
 mvn test
